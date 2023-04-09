@@ -3,7 +3,6 @@
 
 #include "structs.h"
 #include <windows.h>
-#include "defines.h"
 #include <stdio.h>
 
 void render_list(FIELD *field, HANDLE ConsoleHandle, TEXT *text);
